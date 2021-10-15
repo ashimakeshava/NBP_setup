@@ -1,6 +1,6 @@
 # SET UP SYSTEM TO ACCESS STORE REMOTELY
 
-Before you proceed make sure you have login rights as an NBP student and access to /net/store
+Before you proceed, make sure you have login rights as an NBP student and access to /net/store
 
 ### STEPS TO CONNECT TO `/net/store/` remotely
 
@@ -59,7 +59,6 @@ Activate your virtual environment:
 conda activate my_env
 ```
 Your terminal would now look like this:
-Your terminal would also look something like this:
 ```bash
 (my_env)<rzlogin>@gate:~$
 ```
