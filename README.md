@@ -90,4 +90,4 @@ Open a web browser and type
 ```html
 https://localhost:8888
 ```
-Voila! You can now access your data and write code in jupyter notebook
+Voila! You can now access your remote data and code using jupyter notebook
