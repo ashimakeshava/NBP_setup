@@ -75,7 +75,7 @@ You can setup a Jupyter server and work on it remotely.
 ```bash
 ssh rzlogin@gate.ikw.uos.de
 cd /net/store/nbp/projects/<project_folder>
-conda activate myenv
+conda activate my_env
 jupyter notebook --no-browser --port=8889
 ```
 Open another terminal and type the following command:
