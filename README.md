@@ -1,5 +1,7 @@
 # SET UP SYSTEM TO ACCESS STORE REMOTELY
 
+Before you proceed make sure you have login rights as an NBP student and access to /net/store
+
 ### STEPS TO CONNECT TO `/net/store/` remotely
 
 Open terminal on macOS or Linux
