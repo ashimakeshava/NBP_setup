@@ -35,7 +35,7 @@ make sure the path looks something like this:
 ```bash
 /net/home/student/***/mambaforge-pypy3/bin:/net/home/student/***/mambaforge-pypy3/condabin:
 ```
-if not set path by:
+if not, set path by:
 
 ```bash
 export PATH="/net/home/student/***/mambaforge-pypy3/condabin:$PATH"
